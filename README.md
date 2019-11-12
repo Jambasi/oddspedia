@@ -1,4 +1,4 @@
-# hello-world
+# oddsPediaTask
 
 ## Project setup
 ```
